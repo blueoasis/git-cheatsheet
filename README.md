@@ -1,19 +1,23 @@
-[Basic Concepts](https://github.com/blueoasis/git-cheatsheet/blob/master/concepts.md)
+[Basic Concepts](basic-concepts.md)
 
-[Diffs](https://github.com/blueoasis/git-cheatsheet/blob/master/diff.md)
+[Diffing](diffing.md)
 
-[Branching](https://github.com/blueoasis/git-cheatsheet/blob/master/branching.md)
+[Branching](branching.md)
 
-[Merging](https://github.com/blueoasis/git-cheatsheet/blob/master/merging.md)
+[Merging](merging.md)
 
-[Rebasing](https://github.com/blueoasis/git-cheatsheet/blob/master/rebase.md)
+[Rebasing](rebasing.md)
 
-[Resolving Conflicts](https://github.com/blueoasis/git-cheatsheet/blob/master/resolving-conflicts.md)
+[Resolving Conflicts](resolving-conflicts.md)
 
-[Undoing Changes](undo-changes.md)
+[Undoing Changes](undoing-changes.md)
 
-[Stashing](https://github.com/blueoasis/git-cheatsheet/blob/master/stashing.md)
+[Stashing](stashing.md)
 
-[Cherry Picking](https://github.com/blueoasis/git-cheatsheet/blob/master/cherry-pick.md)
+[Cherry Picking](cherry-picking.md)
 
-[Git Log Command](https://github.com/blueoasis/git-cheatsheet/blob/master/log.md)
+[Git Log Command](git-log-command.md)
+
+[Tagging](tagging.md)
+
+[Other commands](other-commands.md)

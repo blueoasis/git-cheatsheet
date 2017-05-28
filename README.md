@@ -10,6 +10,10 @@
 
 [Resolving Conflicts](https://github.com/blueoasis/git-cheatsheet/blob/master/resolving-conflicts.md)
 
+[Undoing Changes](undo-changes.md)
+
+[Stashing](https://github.com/blueoasis/git-cheatsheet/blob/master/stashing.md)
+
 [Cherry Picking](https://github.com/blueoasis/git-cheatsheet/blob/master/cherry-pick.md)
 
-[Git Log](https://github.com/blueoasis/git-cheatsheet/blob/master/log.md)
+[Git Log Command](https://github.com/blueoasis/git-cheatsheet/blob/master/log.md)

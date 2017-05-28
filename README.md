@@ -11,3 +11,5 @@
 [Resolving Conflicts](https://github.com/blueoasis/git-cheatsheet/blob/master/resolving-conflicts.md)
 
 [Cherry Picking](https://github.com/blueoasis/git-cheatsheet/blob/master/cherry-pick.md)
+
+[Git Log](https://github.com/blueoasis/git-cheatsheet/blob/master/log.md)

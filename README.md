@@ -1,3 +1,3 @@
-[Concepts] concepts.md
-[Diffs] diff.md
-[Rebasing] rebase.md
+[Concepts] (concepts.md)
+[Diffs] (diff.md)
+[Rebasing] (rebase.md)

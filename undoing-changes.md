@@ -1,5 +1,5 @@
 Task | Command(s)
 --- | ---
-Revert tracked, modified file to staged version | git checkout -- fileName
-Revert staged file to committed version | git reset HEAD fileName
+Revert tracked, modified file to staged version | git checkout -- <file>
+Revert staged file to committed version | git reset HEAD <file>
 Change the last commit message | git commit --amend

@@ -6,3 +6,5 @@ Rebase the current branch from the master branch's HEAD | git rebase master
 Abort a rebase attempt | git rebase --abort
 Pull down origin branch changes and rebase onto current local branch | git pull --rebase
 Do an interactive rebase for the last 5 commits on the current branch | git rebase -i HEAD~5
+
+To split a single commit with multiple files into seperate commits, in an interactive rebase session, change the desired line from "pick" to "edit". After being dropped at the command line, type git reset HEAD^. This will put the multiple files from this commit back into the staging area and you can now re-add and commit them seperately. 
